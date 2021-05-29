@@ -1,0 +1,45 @@
+[
+          {
+                    "NameString": "محمد",
+                    "ScoreInt": 0,
+                    "RankingInt": 1
+          },
+          {
+<<<<<<< HEAD
+                    "NameString": "علی ش",
+=======
+                    "NameString": "علی شبانی فرد",
+>>>>>>> d8da12ed4eeee61fd67e8e909ebedf824bbac578
+                    "ScoreInt": 0,
+                    "RankingInt": 2
+          },
+          {
+<<<<<<< HEAD
+                    "NameString": "علی م",
+=======
+                    "NameString": "علی مهری",
+>>>>>>> d8da12ed4eeee61fd67e8e909ebedf824bbac578
+                    "ScoreInt": 0,
+                    "RankingInt": 3
+          },
+          {
+                    "NameString": "میلاد",
+                    "ScoreInt": 0,
+                    "RankingInt": 4
+          },
+          {
+                    "NameString": "بهزاد",
+                    "ScoreInt": 0,
+                    "RankingInt": 5
+          },
+          {
+                    "NameString": "احسان",
+                    "ScoreInt": 0,
+                    "RankingInt": 6
+          },
+          {
+                    "NameString": "رضا",
+                    "ScoreInt": 0,
+                    "RankingInt": 7
+          }
+]
