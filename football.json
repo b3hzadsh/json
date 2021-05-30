@@ -1,44 +1,44 @@
 [
           {
                     "Namestring": "محمد",
-                    "ScoreInt": 0,
-                    "RankingInt": 1,
+                    "Scoreint": 0,
+                    "Rankingint": 1,
                     "ID": 1
           },
           {
                     "Namestring": "علی ش",
-                    "ScoreInt": 0,
-                    "RankingInt": 2,
+                    "Scoreint": 0,
+                    "Rankingint": 2,
                     "ID": 2
           },
           {
                     "Namestring": "علی م",
-                    "ScoreInt": 0,
-                    "RankingInt": 3,
+                    "Scoreint": 0,
+                    "Rankingint": 3,
                     "ID": 3
           },
           {
                     "Namestring": "میلاد",
-                    "ScoreInt": 0,
-                    "RankingInt": 4,
+                    "Scoreint": 0,
+                    "Rankingint": 4,
                     "ID": 4
           },
           {
                     "Namestring": "بهزاد",
-                    "ScoreInt": 0,
-                    "RankingInt": 5,
+                    "Scoreint": 0,
+                    "Rankingint": 5,
                     "ID": 5
           },
           {
                     "Namestring": "احسان",
-                    "ScoreInt": 0,
-                    "RankingInt": 6,
+                    "Scoreint": 0,
+                    "Rankingint": 6,
                     "ID": 6
           },
           {
                     "Namestring": "رضا",
-                    "ScoreInt": 0,
-                    "RankingInt": 7,
+                    "Scoreint": 0,
+                    "Rankingint": 7,
                     "ID": 7
           }
 ]
